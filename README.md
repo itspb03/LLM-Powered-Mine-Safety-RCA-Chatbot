@@ -1,4 +1,4 @@
-## LLM-Powered Mine Safety RCA Chatbot
+# LLM-Powered Mine Safety RCA Chatbot
 
 This project builds an end-to-end, **on‑premise root cause analysis (RCA) assistant** for mine safety incidents.  
 It combines a **fine‑tuned Llama 3.2‑3B model** with a **Retrieval‑Augmented Generation (RAG)** pipeline over DGMS regulations, and exposes the system as an **interactive Gradio chatbot**.
@@ -120,4 +120,4 @@ Empirically, the **fine‑tuned + RAG model** produces RCAs that are **close to 
 ***
 
 
-# 3
+
