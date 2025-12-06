@@ -20,7 +20,7 @@ The goal is to **automate, standardize, and ground** RCA generation while keepin
 ## Key Features
 
 - **Fine‑Tuned LLM (Llama 3.2‑3B + LoRA)**
-  - Trained on 349 curated MSHA fatality reports (Description, Investigation, Discussion, RCA)
+  - Trained on 700 curated MSHA fatality reports (Description, Investigation, Discussion, RCA)
   - Parameter‑efficient QLoRA fine‑tuning (4‑bit) for single‑GPU (T4‑class) deployment
 
 - **Regulation‑Aware RAG Pipeline**
